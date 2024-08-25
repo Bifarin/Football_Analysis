@@ -1,0 +1,12 @@
+﻿html_identifier,database_table
+Goalkeeping ,PlayerGoalkeepingStat
+Advanced Goalkeeping ,PlayerAdvancedGoalkeepingStat
+Passing ,PlayerPassingStat
+Standard Stats ,PlayerStandardStat
+Shooting ,PlayerShootingStat
+Pass Types ,PlayerPasstypeStat
+Goal and Shot Creation ,PlayerChancesStat
+Defensive Actions ,PlayerDefensiveactionStat
+Possession ,PlayerPossessionStat
+Playing Time ,PlayerPlayingtimeStat
+Miscellaneous Stats ,PlayerMiscellaneousStat
