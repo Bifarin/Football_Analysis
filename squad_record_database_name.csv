@@ -1,2 +1,12 @@
 ﻿html_identifier,database_table
+Squad Goalkeeping,SquadGoalkeepingStat
+Squad Advanced Goalkeeping,SquadAdvancedGoalkeepingStat
+Squad Passing,SquadPassingStat
+Squad Standard Stats,SquadStandardStat
+Shooting,SquadShootingStat
+Pass Types,SquadPasstypeStat
 Goal and Shot Creation,SquadChancesStat
+Defensive Actions ,SquadDefensiveactionStat
+Possession ,SquadPossessionStat
+Playing Time ,SquadPlayingtimeStat
+Miscellaneous Stats ,SquadMiscellaneousStat
